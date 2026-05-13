@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778630665379,
+  "projectRoot": "/Users/priyamvada/Desktop/Developer/Projects/AB-Test-Checkout-Flow",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "pip",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "app"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "app": {
+      "path": "app",
+      "purpose": "Application code",
+      "fileCount": 1,
+      "lastAccessed": 1778630665364,
+      "keyFiles": [
+        "ab_test_app.py"
+      ]
+    },
+    "charts": {
+      "path": "charts",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1778630665364,
+      "keyFiles": [
+        "chart1_completion_rate_by_group.png",
+        "chart2_completion_by_device.png",
+        "chart3_completion_by_user_type.png",
+        "chart4_funnel_control.png",
+        "chart5_time_to_complete.png"
+      ]
+    },
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 1,
+      "lastAccessed": 1778630665365,
+      "keyFiles": []
+    },
+    "notebooks": {
+      "path": "notebooks",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1778630665365,
+      "keyFiles": [
+        "ab_test_analysis.ipynb"
+      ]
+    },
+    "outputs": {
+      "path": "outputs",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778630665365,
+      "keyFiles": []
+    },
+    "screenshots": {
+      "path": "screenshots",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1778630665365,
+      "keyFiles": [
+        "Screenshot 2026-05-12 at 6.32.37 PM.png",
+        "Screenshot 2026-05-12 at 6.33.15 PM.png",
+        "app_business_impact.png",
+        "app_results.png"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 3,
+      "lastAccessed": 1778631123333,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

@@ -110,6 +110,34 @@ The app works out of the box with the generated dataset at `data/raw/checkout_ab
 
 ---
 
+## Live App Screenshots
+
+### Results Dashboard
+![App Results](screenshots/app_results.png)
+*Statistical results showing 44.9% → 51.4% completion rate lift, p-value, and green Deploy verdict*
+
+### Business Impact Calculator
+![Business Impact](screenshots/app_business_impact.png)
+*3-year ROI of 400,148% on $25K implementation cost*
+
+---
+
+## Analysis Charts
+
+### Completion Rate by Group
+![Completion Rate by Group](charts/chart1_completion_rate_by_group.png)
+*Side-by-side comparison of checkout completion rates between control (3-step) and treatment (single-page) groups*
+
+### Funnel Drop-Off
+![Funnel Drop-Off](charts/chart4_funnel_control.png)
+*Step-by-step funnel showing where users abandon the control checkout flow*
+
+### Lift Heatmap
+![Lift Heatmap](charts/chart7_lift_heatmap.png)
+*Subgroup lift breakdown by device type and user type, showing where the single-page checkout gains the most*
+
+---
+
 ## Tools & Libraries
 
 `pandas` · `numpy` · `scipy` · `matplotlib` · `seaborn` · `streamlit` · `jupyter`
